@@ -6,7 +6,12 @@
 - Passionate about AI & SWE for impactful solutions
 
 ## 📫 Connect
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/ethanchiang](https://www.linkedin.com/in/kethanc/))
-[![Email](https://img.shields.io/badge/Email-ethan@example.com-red?logo=gmail)](mailto:c.ethan12022@gmail.com)
-</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/kethanc">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:c.ethan12022@gmail.com">
+    <img src="https://img.shields.io/badge/Email-c.ethan12022%40gmail.com-red?logo=gmail" alt="Email">
+  </a>
+</p>
