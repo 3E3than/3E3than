@@ -6,8 +6,6 @@
 💡 Passionate about **AI & Software Engineering** for building impactful solutions.  
 💼 AI Engineer Intern @ **ReferU.AI** – Legal RAG systems & NLP pipelines.
 
----
-
 ## 📫 Connect
 
 <p align="center">
