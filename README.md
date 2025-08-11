@@ -5,7 +5,7 @@
 - Undergrad @UC Berkeley
 - Passionate about AI & SWE for impactful solutions
 
-## 📫 Connect
+## 📫 Contacts
 
 <p align="center">
   <a href="https://linkedin.com/in/kethanc">
