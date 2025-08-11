@@ -1,7 +1,7 @@
 # Hello, I'm Ethan
 
 ### 🎓 Master's Student in Computer Science @ USC  
-*B.A. Cognitive Science & Computer Science @ UC Berkeley*
+*Bachelor's @ UC Berkeley*
 
 💡 Passionate about **AI & Software Engineering** for building impactful solutions.  
 💼 AI Engineer Intern @ **ReferU.AI** – Legal RAG systems & NLP pipelines.
