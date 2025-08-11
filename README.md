@@ -11,11 +11,6 @@
 ## 📫 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/kethanc">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;
-  <a href="mailto:c.ethan12022@gmail.com">
-    <img src="https://img.shields.io/badge/Email-c.ethan12022%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="https://linkedin.com/in/kethanc">LinkedIn</a> • 
+  <a href="mailto:c.ethan12022@gmail.com">Email</a>
 </p>
