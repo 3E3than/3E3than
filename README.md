@@ -6,8 +6,6 @@
 💡 Passionate about **AI & Software Engineering** for building impactful solutions.  
 💼 AI Engineer Intern @ **ReferU.AI** – Legal RAG systems & NLP pipelines.
 
----
-
 ## 🛠 Skills
 
 <p align="center">
@@ -21,8 +19,6 @@
   <img src="https://img.shields.io/badge/LangChain-1C3E3E?logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
-
----
 
 ## 📫 Connect
 
