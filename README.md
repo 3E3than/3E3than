@@ -1,4 +1,4 @@
-### Hello, I'm Ethan
+## Hello, I'm Ethan
 
 #### Master's Student studying Computer Science @USC
 
